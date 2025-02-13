@@ -19,3 +19,8 @@ model, tokenizer = load(
     adapter_path="./Llama-3.2-1B-Instruct-adapters",
 )
 ```
+
+## Important links:
+https://github.com/ml-explore/mlx-examples.git
+https://heidloff.net/article/apple-mlx-fine-tuning/
+https://medium.com/@levchevajoana/fine-tuning-llms-with-lora-and-mlx-lm-c0b143642deb
