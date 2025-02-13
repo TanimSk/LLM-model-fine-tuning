@@ -1,4 +1,4 @@
-# Fine Tuning LLM Models in your Mac with mlx lm
+# Fine Tuning LLM Models in your Mac with mlx
 
 ## Steps:
 
