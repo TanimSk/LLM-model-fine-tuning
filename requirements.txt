@@ -1,0 +1,6 @@
+mlx==0.22.0
+mlx-lm==0.21.1
+hf_transfer==0.1.9
+huggingface-hub==0.28.1
+transformers==4.48.2
+matplotlib==3.10.0

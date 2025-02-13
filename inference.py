@@ -4,7 +4,7 @@ prompt = "How do Recurrent Neural Networks (RNNs) contribute to NLP?"
 
 model, tokenizer = load(
     "./Llama-3.2-1B-Instruct",
-    adapter_path="./Llama-3.2-1B-Instruct-adapters",
+    # adapter_path="./Llama-3.2-1B-Instruct-adapters",
 )
 
 messages = [
